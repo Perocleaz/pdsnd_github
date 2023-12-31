@@ -60,4 +60,4 @@ The code allows for optional **Gender** and **Birth Year** columns.  If any othe
 **washington.csv** contains the rental data for Washington, DC, USA.
 
 # Credits
-Udacity Programming for Data Science with Python project submission.
+This is a project submission for Udacity Programming for Data Science with Python course for the Introduction to Version Control module.
